@@ -34,7 +34,7 @@ public class WeatherAppGui extends JFrame {
         addGuiComponents();
 
     }
-
+//Adding gui components
     private void addGuiComponents() {
         //search field
 
